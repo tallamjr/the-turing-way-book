@@ -1,0 +1,4 @@
+[book]
+authors = ["Tarek Allam"]
+multilingual = false
+src = "src"
